@@ -1,5 +1,5 @@
 # Assalamu'alaukum Warohmatullahi Wabarokatuh <br>
-Disini saya akan menjelaskan cara memunculkan kembali Wi-fi yang tiba-tiba hilang <br>
+Ok kawan-kawan disini saya akan menjelaskan cara memunculkan kembali Wi-fi yang tiba-tiba menghilang <br>
 
 **1. Ubah Pengaturan WLAN Auto Config** <br>
 Pertama kita cari **Services** di pencarian windows, lalu buka. <br>
